@@ -9,6 +9,7 @@ website:
   repo-url: https://github.com/Cryspaulino/Cryspaulino.github.io
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
+
   page-footer: 
     border: true
     left: "Crystal 2026©"
