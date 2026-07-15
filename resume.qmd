@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Crystal Paulino's CV
+title: Crystal  Paulino's CV
 ---
 
 ![Resume](./resume.png)
